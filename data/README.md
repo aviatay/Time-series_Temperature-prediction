@@ -7,7 +7,7 @@ This folder contains both the **processed** and **raw** datasets used in the Nas
 ## 🌐 Data Sources
 
 * **Hourly Data (Raw)** — [Download from Kaggle](https://www.kaggle.com/datasets/parthdande/timeseries-weather-dataset/data)
-* **daily_mean.csv** — Daily averages of temperature and other weather variables.
+* **daily_avg.csv** — Daily averages of temperature and other weather variables.
 * **weekly_avg.csv** — Weekly averages used for time series modeling.
 
 ---
